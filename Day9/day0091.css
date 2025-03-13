@@ -1,0 +1,14 @@
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 1px solid rgb(137, 121, 121);
+  margin-left: -59px;
+}
+.avatar:first-child {
+  margin-left: 0px;
+}
+.content{
+    background-color: yellow;
+    padding: 20px;
+}

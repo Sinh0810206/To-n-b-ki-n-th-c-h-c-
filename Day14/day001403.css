@@ -1,0 +1,23 @@
+*{
+    font-size: 1.5rem;
+    
+color: rgb(224, 15, 15);
+
+
+
+}
+.container{
+    display: flex;
+    background-color: cyan;
+
+gap: 20px;
+
+}
+.box   {
+    background-color: blue;
+}
+
+
+
+
+

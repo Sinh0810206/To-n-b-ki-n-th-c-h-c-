@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(103, 100, 95);
+}
+.from h1 {
+  font-size: 40px;
+}
+.from p {
+  font-size: 25px;
+  line-height: 1.2;
+}
+.from img {
+  max-width: 600px;
+}
+.from {
+  margin: 0 auto;
+  width: 500px;
+}

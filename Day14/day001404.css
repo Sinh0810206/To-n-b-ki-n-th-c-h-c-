@@ -1,0 +1,28 @@
+*{
+    font-size: 1.5rem;
+    
+color: rgb(224, 15, 15);
+
+
+
+}
+.container{
+    display: flex;
+    background-color: cyan;
+/* justify-content: start; */
+/* justify-content: end; */
+/* justify-content: center; */
+/* justify-content: space-between; */
+/* justify-content: space-around; */
+
+
+
+}
+.box   {
+    background-color: blue;
+}
+
+
+
+
+

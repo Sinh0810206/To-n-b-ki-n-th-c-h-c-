@@ -1,0 +1,92 @@
+.box{
+background-color: blueviolet;
+width: 30%;
+border: 5px solid red;
+
+}
+.container{
+
+    /* height: 200px; */
+    /* display: flex; */
+    /* background-color: yellow; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: flex-end; */
+
+/* flex-direction: column; */
+/* justify-content: flex-end; */
+
+/* align-items: flex-end; */
+/* flex-direction: column-reverse; */
+
+
+display: flex;
+background-color: cyan;
+flex-wrap: wrap;
+flex-flow: wrap-reverse;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

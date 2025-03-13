@@ -1,0 +1,34 @@
+p::first-line{
+    color: red;
+
+}
+
+span{
+    display: block;
+}
+
+span::first-line{
+    color: blue;
+    background-color: red;
+}
+p::first-letter{
+    font-size: 30px;
+color: blueviolet;
+
+}
+p::selection{
+    background-color: black;
+    color: white;
+}
+li::marker{
+    font-size: 20px;
+    color: brown;
+
+}
+
+.box::before{
+content: "ở đầu";
+}
+.box::after{
+    content: "ở cuối";
+    }

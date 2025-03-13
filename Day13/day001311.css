@@ -1,0 +1,64 @@
+.box{
+    width: 100px;
+    height: 100px;
+    color: azure;
+/* cẳn giữa text các khối */
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+.header{
+    background: yellow;
+}
+
+.content{
+    /* position: relative; */
+    background: cyan;
+    width: 400px;
+    margin: 40px;
+}
+
+.box1{
+    background-color: red;
+    /* position: static; */
+
+
+
+
+}
+.box2{
+    background-color: blue;
+/* position: relative; */
+/* left: 50px; */
+/* right: 50px; */
+/* top: 50px; */
+/* bottom: 50px; */
+/* right: 30px; */
+position: absolute;
+left: 0;
+top: 0;
+
+
+
+
+}
+.box3{
+    background-color: yellow;
+/* position: relative; */
+/* bottom: 50px; */
+
+
+
+
+
+
+}
+
+
+h1{
+    background: rebeccapurple;
+}

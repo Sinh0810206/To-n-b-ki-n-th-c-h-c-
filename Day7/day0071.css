@@ -1,0 +1,14 @@
+.intop:active {
+  color: blue;
+  font-size: xx-large;
+}
+#ember1:hover {
+  color: blueviolet;
+  font-size: 30pc;
+}
+.ember2:hover {
+  color: blue;
+  background-color: rgb(241, 12, 12);
+  font-weight: bold;
+  height: 30px;
+}

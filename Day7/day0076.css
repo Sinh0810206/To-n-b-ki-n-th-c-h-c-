@@ -1,0 +1,4 @@
+.top:not(:first-of-type) {
+  color: yellow;
+  background-color: red;
+}

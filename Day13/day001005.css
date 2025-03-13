@@ -1,0 +1,12 @@
+.admin{
+    max-width: 300px;
+    pointer-events: none;
+}
+.admin12{
+    display: inline-block;
+    padding: 10px 25px;
+    color: blue;
+    font-size: 30px;
+    background-color: rgb(89, 226, 43);
+    pointer-events: none;
+}

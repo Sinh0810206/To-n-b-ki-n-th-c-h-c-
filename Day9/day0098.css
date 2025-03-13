@@ -1,0 +1,9 @@
+body{
+    width: 650px;
+
+}
+strong{
+    padding: 30px;
+    background-color: blue;
+    display: inline-block;
+}

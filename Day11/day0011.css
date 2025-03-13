@@ -1,0 +1,15 @@
+/* strong {
+  /* text-decoration: none;
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+
+
+    text-decoration: overline line-through; 
+} */
+.class {
+  text-indent: 20px;
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+}

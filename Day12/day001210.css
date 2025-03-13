@@ -1,0 +1,16 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-image: url(/img/1.PNG);
+    border: 50px dotted red;
+    padding: 50px;
+    /* background-clip: content-box; */
+    /* gốc của ảnh */
+    background-origin: padding-box;
+    background-origin: border-box;
+    background-origin: content-box;
+/* Nền ảnh đồ từ đâu */
+background-clip: border-box;
+background-clip: padding-box;
+background-clip: content-box;
+}

@@ -1,0 +1,36 @@
+.container{
+    height: 150px;
+    display: flex;
+    background-color: blue;
+
+align-items: flex-start;
+
+}
+
+.box{
+background-color: cyan;
+border: 2px solid black;
+
+
+
+
+
+}
+.box2,.box3
+{
+    /* align-self: flex-end; */
+
+
+flex-grow: 1;
+
+
+
+}
+
+
+
+
+
+
+
+

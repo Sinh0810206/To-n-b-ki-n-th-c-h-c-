@@ -1,0 +1,19 @@
+.conntainer{
+    height: 100px;
+    display: flex;
+    background-color: chartreuse;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.fa-square-youtube{
+    font-size: 1.5rem;
+    color: red;
+    margin: auto;
+  
+}
+
+
+
+
+

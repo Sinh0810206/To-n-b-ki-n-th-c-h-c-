@@ -1,0 +1,14 @@
+.box{
+    width: 210px;
+    height: 200px;
+    background-color: red;
+    padding: 10px 20px 30px 40px;
+border: 10px solid #fae504;
+margin: 1px;
+}
+.box2{
+    margin-left: 290px;
+}
+.box3{
+    margin-left: 580px;
+}

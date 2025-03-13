@@ -1,0 +1,15 @@
+.div-elm:empty{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+
+}
+.div-elm{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 0, 17);
+
+}
+h2:target{
+    color: blue;
+}

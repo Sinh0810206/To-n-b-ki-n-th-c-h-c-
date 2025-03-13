@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+}
+
+.box{
+/* width: 100px; */
+/* flex-basis: 200px; */
+/* max-width: 100px; */
+
+flex: 1;
+
+
+}
+
+
+.box1{
+background-color: blue;
+
+
+
+
+}
+.box2{
+    background-color: rebeccapurple;
+
+order: 1px;
+
+
+
+}
+.box3{
+    background-color: green;
+order: 3px;
+
+
+
+}
+
+
+
+.box4{
+    background-color: red;
+
+
+
+
+
+}
+
+
+
+

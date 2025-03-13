@@ -1,0 +1,9 @@
+.pic1{
+    width: 200px;
+    float: right;
+
+}
+p:last-child{
+    clear: left;
+}
+

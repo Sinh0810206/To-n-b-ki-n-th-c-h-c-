@@ -1,0 +1,9 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background: url(/img/thumbbig-1335457.webp) center/cover;
+    clip-path: circle();
+
+
+
+}

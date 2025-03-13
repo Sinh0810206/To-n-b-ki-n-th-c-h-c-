@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+
+
+.fa-solid,
+.fa-brands{
+    color: blueviolet;
+    margin-right: 4px;
+}

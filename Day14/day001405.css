@@ -1,0 +1,41 @@
+*{
+    font-size: 1.5rem;
+    
+color: rgb(224, 15, 15);
+
+
+
+}
+body{
+    margin: 0;
+}
+.container{
+    height: 300px;
+    display: flex;
+    background-color: cyan;
+/* justify-content: start; */
+/* justify-content: end; */
+/* justify-content: center; */
+/* justify-content: space-between; */
+/* justify-content: space-around; */
+justify-content: space-evenly;
+/* align-items: stretch; */
+/* align-items: flex-start; */
+/* align-items: flex-end; */
+/* align-items: center; */
+/* align-items: baseline; */
+
+}
+.box   {
+    background-color: blue;
+}
+.box1{
+    /* height: 200px; */
+font-size: 3rem;
+
+
+}
+
+
+
+

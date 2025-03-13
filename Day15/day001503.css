@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    background-color: chocolate;
+    flex-direction: column;
+height: 150px;
+
+}
+.box1{
+    background-color: rebeccapurple;
+
+}
+.box2{
+    background-color: blueviolet;}
+  
+.box3{
+    background-color: blue;
+    /* margin-left: auto; */
+
+}
+.box5{
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

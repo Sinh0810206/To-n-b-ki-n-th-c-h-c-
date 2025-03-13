@@ -1,0 +1,14 @@
+h1 {
+  width: 200px;
+  white-space: nowrap;
+  background-color: red;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+h2 {
+  background-color: aqua;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  display: block;
+}

@@ -1,0 +1,12 @@
+.box{
+    width: 150px;
+    height: 150px;
+    margin: 100px;
+    background-color: red;
+    /* box-shadow: 60px -16px;
+    box-shadow: 60px -16px 20px;
+    box-shadow: 60px -16px 20px rgb(26, 19, 19); */
+    /* box-shadow: inset 10px 40px 10px 30px yellow; */
+    /* đổ nhiều bóng */
+    /* box-shadow: thêm mỗi dấu phẩy vào sau 1 cụm code đã viết; */
+}
